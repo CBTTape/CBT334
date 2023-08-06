@@ -1,0 +1,11 @@
+2023-08-06 03:28:44.850694 - Initialized conversion of CBT334
+2023-08-06 03:28:44.925653 - Received CBT.V505.FILE334.PDS from FILE334.XMI 
+2023-08-06 03:28:44.927906 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE334.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:28:44.929052 - Found @FILE334.txt (text/plain) in CBT.V505.FILE334.PDS, moved to PDS/@FILE334
+2023-08-06 03:28:44.930035 - Found CRYPT.txt (text/plain) in CBT.V505.FILE334.PDS, moved to PDS/CRYPT
+2023-08-06 03:28:44.931035 - Found C370.txt (text/plain) in CBT.V505.FILE334.PDS, moved to PDS/C370
+2023-08-06 03:28:44.932046 - Found GETOPT.txt (text/plain) in CBT.V505.FILE334.PDS, moved to PDS/GETOPT
+2023-08-06 03:28:44.932891 - Found GZIP.txt (text/plain) in CBT.V505.FILE334.PDS, moved to PDS/GZIP
+2023-08-06 03:28:44.933880 - Found LZW.txt (text/plain) in CBT.V505.FILE334.PDS, moved to PDS/LZW
+2023-08-06 03:28:44.934817 - Found REVISION.txt (text/plain) in CBT.V505.FILE334.PDS, moved to PDS/REVISION
+2023-08-06 03:28:44.935674 - Found TAILOR.txt (text/plain) in CBT.V505.FILE334.PDS, moved to PDS/TAILOR
