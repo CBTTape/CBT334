@@ -1,10 +1,10 @@
-2025-04-13 18:46:09.119242 - Received CBT.V508.FILE334.PDS from FILE334.XMI 
-2025-04-13 18:46:09.120101 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/$$$#DATE
-2025-04-13 18:46:09.120187 - Found @FILE334.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/@FILE334
-2025-04-13 18:46:09.120261 - Found CRYPT.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/CRYPT
-2025-04-13 18:46:09.120324 - Found C370.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/C370
-2025-04-13 18:46:09.120387 - Found GETOPT.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/GETOPT
-2025-04-13 18:46:09.120457 - Found GZIP.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/GZIP
-2025-04-13 18:46:09.120517 - Found LZW.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/LZW
-2025-04-13 18:46:09.120575 - Found REVISION.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/REVISION
-2025-04-13 18:46:09.120638 - Found TAILOR.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/TAILOR
+2025-04-15 01:37:10.904568 - Received CBT.V508.FILE334.PDS from FILE334.XMI 
+2025-04-15 01:37:10.905937 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/$$$#DATE
+2025-04-15 01:37:10.906302 - Found @FILE334.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/@FILE334
+2025-04-15 01:37:10.906494 - Found CRYPT.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/CRYPT
+2025-04-15 01:37:10.906690 - Found C370.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/C370
+2025-04-15 01:37:10.906883 - Found GETOPT.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/GETOPT
+2025-04-15 01:37:10.907135 - Found GZIP.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/GZIP
+2025-04-15 01:37:10.907315 - Found LZW.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/LZW
+2025-04-15 01:37:10.907494 - Found REVISION.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/REVISION
+2025-04-15 01:37:10.907723 - Found TAILOR.txt (text/plain) in CBT.V508.FILE334.PDS, moved to PDS/TAILOR
